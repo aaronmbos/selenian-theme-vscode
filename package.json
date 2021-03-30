@@ -1,0 +1,21 @@
+{
+    "name": "selenian-theme",
+    "displayName": "Selenian",
+    "description": "A theme drawing inspiration from the earth's lunar companion.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Selenian",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Selenian-color-theme.json"
+            }
+        ]
+    }
+}
