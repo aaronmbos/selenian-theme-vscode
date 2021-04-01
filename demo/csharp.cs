@@ -6,6 +6,31 @@ using System.Threading.Tasks;
 
 namespace Selenian
 {
+    public class Person
+    {
+        private const int Constant = 1000;
+        
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string FullName => $"{FirstName} {LastName}";
+
+        // Empty ctor
+        public Person()
+        {
+        }
+
+        public Person(string firstName, string lastName) 
+        {
+            this.FirstName = firstName;
+            this.LastName = lastName;
+        }
+
+        private string MakeAString()
+        {
+            return "This is a string"
+        }
+    }
+
     public class CSharp
     {
         private const int TestConst = 1;
