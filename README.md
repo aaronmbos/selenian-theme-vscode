@@ -1,4 +1,6 @@
-# README
+# Selenian
+A Visual Studio Code theme that draws inspiration from the earth's lunar companion, the Moon. The overall goal of this theme is to provide a minimalistic experience, while also utilizing an appropriate amount of color where applicable.
+
 ## This is the README for your extension "selenian-theme"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
