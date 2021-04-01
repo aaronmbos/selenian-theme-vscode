@@ -1,15 +1,13 @@
-# Selenian
-A Visual Studio Code theme that draws inspiration from the earth's lunar companion, the Moon. The overall goal of this theme is to provide a minimalistic experience, while also utilizing an appropriate amount of color where applicable.
+# Selenian 🌒
+A Visual Studio Code theme that draws inspiration from the earth's lunar companion, the Moon. 
 
-## This is the README for your extension "selenian-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Details
+---
+The overall goal of this theme is to provide a minimalistic experience, while also utilizing an appropriate amount of color where applicable. The theme makes use of gray tones combined with sparse colors to direct attention to different pieces of code.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![hooks_screenshot](hooks_screenshot.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Attributions
+Sarah Drasner (author of [Night Owl](https://github.com/sdras/night-owl-vscode-theme)) posted this [article](https://css-tricks.com/creating-a-vs-code-theme/), which gave me everything I needed to create this theme (and more!).
 
-**Enjoy!**
+I initially came acrossed the minimalist idea from Nikita Prokopov's [Alabaster](https://github.com/tonsky/vscode-theme-alabaster) theme.

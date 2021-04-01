@@ -1,20 +1,25 @@
-import React, { useState, useEffect } from "react";
-
-function Example() {
-  const [count, setCount] = useState(0);
-
-  // Similar to componentDidMount and componentDidUpdate:
-  useEffect(() => {
-    // Update the document title using the browser API
-    document.title = `You clicked ${count} times`;
-  });
-
+const friendList = [
+  { id: 1, name: "Phoebe" },
+  { id: 2, name: "Rachel" },
+  { id: 3, name: "Ross" },
+];
+// Example code found here: https://reactjs.org/docs/hooks-custom.html
+function ChatRecipientPicker() {
+  const [recipientID, setRecipientID] = useState(1);
+  const isRecipientOnline = useFriendStatus(recipientID);
   return (
-    <div>
-      <p>You clicked {count} times</p>
-      <button onClick={() => setCount(count + 1)}>Click me</button>
-    </div>
+    <>
+      <Circle color={isRecipientOnline ? "green" : "red"} />{" "}
+      <select
+        value={recipientID}
+        onChange={(e) => setRecipientID(Number(e.target.value))}
+      >
+        {friendList.map((friend) => (
+          <option key={friend.id} value={friend.id}>
+            {friend.name}
+          </option>
+        ))}
+      </select>
+    </>
   );
 }
-
-export default Example;
