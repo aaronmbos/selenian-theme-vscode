@@ -2,7 +2,6 @@
 A Visual Studio Code theme that draws inspiration from the earth's lunar companion, the Moon. 
 
 ## Details
----
 The overall goal of this theme is to provide a minimalistic experience, while also utilizing an appropriate amount of color where applicable. The theme makes use of gray tones combined with sparse colors to direct attention to different pieces of code.
 
 ![hooks_screenshot](hooks_screenshot.png)
