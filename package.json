@@ -6,7 +6,7 @@
         "url": "https://github.com/aaronmbos/selenian-theme-vscode"
     },
     "publisher": "AaronMBos",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.54.0"
     },

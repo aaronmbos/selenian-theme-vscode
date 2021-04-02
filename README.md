@@ -8,6 +8,6 @@ The overall goal of this theme is to provide a minimalistic experience, while al
 ![hooks_screenshot](hooks_screenshot.png)
 
 ### Attributions
-Sarah Drasner (author of [Night Owl](https://github.com/sdras/night-owl-vscode-theme)) posted this [article](https://css-tricks.com/creating-a-vs-code-theme/), which gave me everything I needed to create this theme (and more!).
-
-I initially came acrossed the minimalist idea from Nikita Prokopov's [Alabaster](https://github.com/tonsky/vscode-theme-alabaster) theme.
+---
+- Sarah Drasner (author of [Night Owl](https://github.com/sdras/night-owl-vscode-theme)) posted this [article](https://css-tricks.com/creating-a-vs-code-theme/), which gave me everything I needed to create this theme (and more!).
+- Inspired by Nikita Prokopov's [Alabaster](https://github.com/tonsky/vscode-theme-alabaster) theme.
