@@ -1,6 +1,6 @@
-# Night Owl Theme
+# Selenian Theme
 
-> Night Owl theme for VS Code.
+> Selenian Quote
 
 ![Preview](images/preview.gif)
 

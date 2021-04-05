@@ -27,7 +27,7 @@ namespace Selenian
 
         private string MakeAString()
         {
-            return "This is a string"
+            return "This is a string";
         }
     }
 
