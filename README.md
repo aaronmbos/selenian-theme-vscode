@@ -2,7 +2,7 @@
 A Visual Studio Code theme that draws inspiration from the earth's lunar companion, the Moon. 
 
 ## Details
-The overall goal of this theme is to provide a minimalistic experience, while also utilizing an appropriate amount of color where applicable. The theme makes use of gray tones combined with sparse colors to direct attention to different pieces of code.
+Selenian is a minimal dark theme that uses gray tones combined with sparse colors to allow for easier code scanning, while not overwhelming the user with color. You will notice that more common aspects of code are shades of gray, whereas tokens like functions, strings, constants, comments, etc. are brought to life with color to make them stand out when scanning code.
 
 ![hooks_screenshot](hooks_screenshot.png)
 

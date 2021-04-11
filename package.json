@@ -14,7 +14,7 @@
     ],
     "icon": "selenian-icon.png",
     "publisher": "AaronMBos",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.54.0"
     },
