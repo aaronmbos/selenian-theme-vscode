@@ -6,6 +6,9 @@ Selenian is a minimal dark theme that uses gray tones combined with sparse color
 
 ![hooks_screenshot](hooks_screenshot.png)
 
+
+![csharp_screenshot](csharp_screenshot.png)
+
 ### Attributions
 ---
 - Sarah Drasner (author of [Night Owl](https://github.com/sdras/night-owl-vscode-theme)) posted this [article](https://css-tricks.com/creating-a-vs-code-theme/), which gave me everything I needed to create this theme (and more!).
