@@ -3,6 +3,7 @@ const friendList = [
   { id: 2, name: "Rachel" },
   { id: 3, name: "Ross" },
 ];
+
 // Example code found here: https://reactjs.org/docs/hooks-custom.html
 function ChatRecipientPicker() {
   const [recipientID, setRecipientID] = useState(1);
