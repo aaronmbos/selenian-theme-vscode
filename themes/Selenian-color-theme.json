@@ -13,6 +13,13 @@
   },
   "tokenColors": [
     {
+      "name": "Type",
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#e1d3bb"
+      }
+    },
+    {
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
@@ -49,7 +56,7 @@
       "name": "Keyword Control",
       "scope": ["keyword.control"],
       "settings": {
-        "foreground": "#e4e4cd"
+        "foreground": "#f9f9f9"
       }
     },
     {
